@@ -67,12 +67,12 @@ public class BrowserStackTest {
 			}
 		}
 
-		username = System.getenv("harideep_1FwL4x");
+		username = System.getenv("rajagajula_NWM17Z");
 		if (username == null) {
 			username = (String) config.get("user");
 		}
 
-		accessKey = System.getenv("sckogTFXXH1Tk6WzLyfy");
+		accessKey = System.getenv("NX8dFKvyXN3SjyuADD4K");
 		if (accessKey == null) {
 			accessKey = (String) config.get("key");
 		}
